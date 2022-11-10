@@ -1,0 +1,53 @@
+name: publish
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 16
+      - run: npm install
+      - run: npm pack
+
+  publish-npm:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 16
+          registry-url: https://registry.npmjs.org/
+      - name: Publish NPM
+        run: |
+          npm install
+          npm pack
+          ls -l
+          npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.NPM}}
+
+  publish-gpr:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 16
+          registry-url: https://npm.pkg.github.com/
+          scope: '@ihk-gfi'
+      - name: Publish Github
+        run: |
+          npm install
+          npm pack
+          ls -l
+          npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.GITHUB}}
