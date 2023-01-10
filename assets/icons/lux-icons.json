@@ -28,6 +28,10 @@
     "iconPath":  "/assets/icons/Computer-Devices/Computer/desktop--screen-device-display-computer-desktop-electronics-monitor-keyboard.svg"
   },
   {
+    "iconName":  "lux-database--array-code-database-disc-disk-hard-programming-raid-storage",
+    "iconPath":  "/assets/icons/Computer-Devices/Computer/database--array-code-database-disc-disk-hard-programming-raid-storage.svg"
+  },
+  {
     "iconName":  "lux-desktop-add--desktop-device-display-add-plus-computer",
     "iconPath":  "/assets/icons/Computer-Devices/Computer/desktop-add--desktop-device-display-add-plus-computer.svg"
   },
