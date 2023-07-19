@@ -1,5 +1,9 @@
 # LUX-Components-Icons-And-Fonts
 
+## Version 1.6.0
+
+- **fonts**: Schriften werden nicht korrekt angezeigt. [Issue 334](https://github.com/IHK-GfI/lux-components/issues/334)
+
 ## Version 1.5.0
 
 - **icons**: Lux-Icons sind am Rand angeschnitten. [Issue 298](https://github.com/IHK-GfI/lux-components/issues/298)
