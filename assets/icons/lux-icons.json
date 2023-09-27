@@ -1444,8 +1444,8 @@
     "iconPath": "/assets/icons/Interface-Essentials/Calendar/Time--gfi__lux-calendar-times.svg"
   },
   {
-    "iconName": "lux-Book-Reader--gfi__lux-book-reader-instructions-user",
-    "iconPath": "/assets/icons/Interface-Essentials/Content/Book-Reader--gfi__lux-book-reader.svg"
+    "iconName": "lux-Book-Reader--gfi__lux-book-reader-instructions-user-disabled-disability-accessibility-easy-language-guidance",
+    "iconPath": "/assets/icons/Interface-Essentials/Content/lux-Book-Reader--gfi__lux-book-reader-instructions-user-disabled-disability-accessibility-easy-language-guidance.svg"
   },
   {
     "iconName": "lux-Book-Readme--gfi__lux-readme-instructions-paper-journal-news",
@@ -3554,5 +3554,21 @@
   {
     "iconName": "lux-notification-alarm-2--android-phone-mobile-device-smartphone-iphone-alert-bell-alarm",
     "iconPath": "/assets/icons/Phone/lux-notification-alarm-2--android-phone-mobile-device-smartphone-iphone-alert-bell-alarm.svg"
+  },
+  {
+    "iconName": "lux-sign-language--gfi__disabled-disability-accessibility-guidance-deaf-dumb-mute-silent",
+    "iconPath": "/assets/icons/Accessibility/lux-sign-language--gfi__disabled-disability-accessibility-guidance-deaf-dumb-mute-silent.svg"
+  },
+  {
+    "iconName": "lux-braille-blind--disabled-disability-braille-blind-accessibility",
+    "iconPath": "/assets/icons/Accessibility/lux-braille-blind--disabled-disability-braille-blind-accessibility.svg"
+  },
+  {
+    "iconName": "lux-hearing-deaf--disability-hearing-deaf-disabled-accessibility",
+    "iconPath": "/assets/icons/Accessibility/lux-hearing-deaf--disability-hearing-deaf-disabled-accessibility.svg"
+  },
+  {
+    "iconName": "lux-wheelchair--person-access-wheelchair-accomodation-human-disability-disabled-accessibility-wayfinding",
+    "iconPath": "/assets/icons/Accessibility/lux-wheelchair--person-access-wheelchair-accomodation-human-disability-disabled-accessibility-wayfinding.svg"
   }
 ]

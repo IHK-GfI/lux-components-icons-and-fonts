@@ -1,5 +1,11 @@
 # LUX-Components-Icons-And-Fonts
 
+## Version 1.8.0
+
+### NEW
+
+- **icons**: Neue Icons zum Thema Barrierefreiheit ergänzt. [Issue 13](https://github.com/IHK-GfI/lux-components-icons-and-fonts/issues/13)
+
 ## Version 1.7.0
 
 ### NEW
