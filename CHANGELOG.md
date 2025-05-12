@@ -1,5 +1,11 @@
 # LUX-Components-Icons-And-Fonts
 
+## Version 1.9.0
+
+- **icons**: Fehlerhafte Einträge in der lux-icons.json. [Issue 16](https://github.com/IHK-GfI/lux-components-icons-and-fonts/issues/16)
+
+### NEW
+
 ## Version 1.8.0
 
 ### NEW
