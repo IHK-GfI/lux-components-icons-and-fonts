@@ -2484,12 +2484,12 @@
     "iconPath": "/assets/icons/Interface-Essentials/Security/interface-security-shield-4--shield-protection-security-defend-crime-war-cover.svg"
   },
   {
-    "iconName": "lux-interface-security-shield-person—shield-secure-security-person",
-    "iconPath": "/assets/icons/Interface-Essentials/Security/interface-security-shield-person—shield-secure-security-person.svg"
+    "iconName": "lux-interface-security-shield-person--shield-secure-security-person",
+    "iconPath": "/assets/icons/Interface-Essentials/Security/interface-security-shield-person--shield-secure-security-person.svg"
   },
   {
-    "iconName": "lux-interface-security-shield-profile—shield-secure-security-profile-person",
-    "iconPath": "/assets/icons/Interface-Essentials/Security/interface-security-shield-profile—shield-secure-security-profile-person.svg"
+    "iconName": "lux-interface-security-shield-profile--shield-secure-security-profile-person",
+    "iconPath": "/assets/icons/Interface-Essentials/Security/interface-security-shield-profile--shield-secure-security-profile-person.svg"
   },
   {
     "iconName": "lux-Cogs--gfi__lux-cogs-cog-gears-gear-wheels-wheel",
