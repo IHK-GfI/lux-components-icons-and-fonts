@@ -1,10 +1,16 @@
 # LUX-Components-Icons-And-Fonts
 
+## Version 1.10.0
+
+### Bug Fixes
+
+- **icons**: Fehlerhaftes Encoding (UTF-8-BOM) der package.json korrigiert.
+
 ## Version 1.9.0
 
-- **icons**: Fehlerhafte Einträge in der lux-icons.json. [Issue 16](https://github.com/IHK-GfI/lux-components-icons-and-fonts/issues/16)
-
 ### NEW
+
+- **icons**: Fehlerhafte Einträge in der lux-icons.json. [Issue 16](https://github.com/IHK-GfI/lux-components-icons-and-fonts/issues/16)
 
 ## Version 1.8.0
 
