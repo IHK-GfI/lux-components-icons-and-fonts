@@ -1901,55 +1901,55 @@
   },
   {
     "iconName": "lux-File-Contract--gfi__lux-file-contract-record-arrangement",
-    "iconPath": "/assets/icons/Interface-Essentials/Files Folders/File-Contract--gfi__lux-file-contract.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Files-Folders/File-Contract--gfi__lux-file-contract.svg"
   },
   {
     "iconName": "lux-File-CSV--gfi__lux-file-csv",
-    "iconPath": "/assets/icons/Interface-Essentials/Files Folders/File-CSV--gfi__lux-file-csv.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Files-Folders/File-CSV--gfi__lux-file-csv.svg"
   },
   {
     "iconName": "lux-File-Download--gfi__lux-file-download-arrow-down",
-    "iconPath": "/assets/icons/Interface-Essentials/Files Folders/File-Download--gfi__lux-file-download.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Files-Folders/File-Download--gfi__lux-file-download.svg"
   },
   {
     "iconName": "lux-File-Image--gfi__lux-file-image-picture-foto",
-    "iconPath": "/assets/icons/Interface-Essentials/Files Folders/File-Image--gfi__lux-file-image.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Files-Folders/File-Image--gfi__lux-file-image.svg"
   },
   {
     "iconName": "lux-File-Import--gfi__lux-file-import-arrow-right",
-    "iconPath": "/assets/icons/Interface-Essentials/Files Folders/File-Import--gfi__lux-file-import.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Files-Folders/File-Import--gfi__lux-file-import.svg"
   },
   {
     "iconName": "lux-File-Invoice--gfi__lux-file-invoice",
-    "iconPath": "/assets/icons/Interface-Essentials/Files Folders/File-Invoice--gfi__lux-file-invoice.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Files-Folders/File-Invoice--gfi__lux-file-invoice.svg"
   },
   {
     "iconName": "lux-File-Medical--gfi__lux-file-medical-heartrate",
-    "iconPath": "/assets/icons/Interface-Essentials/Files Folders/File-Medical--gfi__lux-file-medical.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Files-Folders/File-Medical--gfi__lux-file-medical.svg"
   },
   {
     "iconName": "lux-File-PDF--gfi__lux-file-pdf",
-    "iconPath": "/assets/icons/Interface-Essentials/Files Folders/File-PDF--gfi__lux-file-pdf.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Files-Folders/File-PDF--gfi__lux-file-pdf.svg"
   },
   {
     "iconName": "lux-File-Powerpoint--gfi__lux-powerpoint",
-    "iconPath": "/assets/icons/Interface-Essentials/Files Folders/File-Powerpoint--gfi__lux-powerpoint.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Files-Folders/File-Powerpoint--gfi__lux-powerpoint.svg"
   },
   {
     "iconName": "lux-File-Signature--gfi__lux-file-signature-contract",
-    "iconPath": "/assets/icons/Interface-Essentials/Files Folders/File-Signature--gfi__lux-file-signature.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Files-Folders/File-Signature--gfi__lux-file-signature.svg"
   },
   {
     "iconName": "lux-File-Upload--gfi__lux-file-upload-arrow-up",
-    "iconPath": "/assets/icons/Interface-Essentials/Files Folders/File-Upload--gfi__lux-file-upload.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Files-Folders/File-Upload--gfi__lux-file-upload.svg"
   },
   {
     "iconName": "lux-File-Word--gfi__lux-file-word",
-    "iconPath": "/assets/icons/Interface-Essentials/Files Folders/File-Word--gfi__lux-file-word.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Files-Folders/File-Word--gfi__lux-file-word.svg"
   },
   {
     "iconName": "lux-Folder-Open--gfi__lux-folder-open-interface-files",
-    "iconPath": "/assets/icons/Interface-Essentials/Files Folders/Folder-Open--gfi__lux-folder-open.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Files-Folders/Folder-Open--gfi__lux-folder-open.svg"
   },
   {
     "iconName": "lux-interface-file-add--file-common-add",
@@ -2069,23 +2069,23 @@
   },
   {
     "iconName": "lux-interface-geometric-circle--geometric-circle-round-design-shape-shapes",
-    "iconPath": "/assets/icons/Interface-Essentials/Gemetric-Shape/interface-geometric-circle--geometric-circle-round-design-shape-shapes.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Geometric-Shape/interface-geometric-circle--geometric-circle-round-design-shape-shapes.svg"
   },
   {
     "iconName": "lux-interface-geometric-pentagon--pentagon-design-geometric-shape-shapes",
-    "iconPath": "/assets/icons/Interface-Essentials/Gemetric-Shape/interface-geometric-pentagon--pentagon-design-geometric-shape-shapes.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Geometric-Shape/interface-geometric-pentagon--pentagon-design-geometric-shape-shapes.svg"
   },
   {
     "iconName": "lux-interface-geometric-polygon--polygon-octangle-design-geometric-shape-shapes",
-    "iconPath": "/assets/icons/Interface-Essentials/Gemetric-Shape/interface-geometric-polygon--polygon-octangle-design-geometric-shape-shapes.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Geometric-Shape/interface-geometric-polygon--polygon-octangle-design-geometric-shape-shapes.svg"
   },
   {
     "iconName": "lux-interface-geometric-square--square-geometric-design-shape-shapes",
-    "iconPath": "/assets/icons/Interface-Essentials/Gemetric-Shape/interface-geometric-square--square-geometric-design-shape-shapes.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Geometric-Shape/interface-geometric-square--square-geometric-design-shape-shapes.svg"
   },
   {
     "iconName": "lux-interface-geometric-triangle--geometric-triangle-shape-design-shapes",
-    "iconPath": "/assets/icons/Interface-Essentials/Gemetric-Shape/interface-geometric-triangle--geometric-triangle-shape-design-shapes.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Geometric-Shape/interface-geometric-triangle--geometric-triangle-shape-design-shapes.svg"
   },
   {
     "iconName": "lux-Handshake--gfi__lux-handshake-hands-hand-contract-arangement",
@@ -2493,107 +2493,107 @@
   },
   {
     "iconName": "lux-Cogs--gfi__lux-cogs-cog-gears-gear-wheels-wheel",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/Cogs--gfi__lux-cogs.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/Cogs--gfi__lux-cogs.svg"
   },
   {
     "iconName": "lux-interface-setting-cog--work-loading-cog-gear-settings-machine",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-cog--work-loading-cog-gear-settings-machine.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-cog--work-loading-cog-gear-settings-machine.svg"
   },
   {
     "iconName": "lux-interface-setting-gauge-dashboard-1--bar-speed-test-loading-dashboard-internet-gauge-progress",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-gauge-dashboard-1--bar-speed-test-loading-dashboard-internet-gauge-progress.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-gauge-dashboard-1--bar-speed-test-loading-dashboard-internet-gauge-progress.svg"
   },
   {
     "iconName": "lux-interface-setting-gauge-dashboard-2--bar-speed-test-loading-dashboard-internet-gauge-progress",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-gauge-dashboard-2--bar-speed-test-loading-dashboard-internet-gauge-progress.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-gauge-dashboard-2--bar-speed-test-loading-dashboard-internet-gauge-progress.svg"
   },
   {
     "iconName": "lux-interface-setting-hammer--construction-hammer-mallet-tool-tools-setting-edit-adjust",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-hammer--construction-hammer-mallet-tool-tools-setting-edit-adjust.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-hammer--construction-hammer-mallet-tool-tools-setting-edit-adjust.svg"
   },
   {
     "iconName": "lux-interface-setting-menu-1--button-parallel-horizontal-lines-menu-navigation-three-hamburger",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-menu-1--button-parallel-horizontal-lines-menu-navigation-three-hamburger.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-menu-1--button-parallel-horizontal-lines-menu-navigation-three-hamburger.svg"
   },
   {
     "iconName": "lux-interface-setting-menu-1-alternate--button-parallel-horizontal-lines-menu-navigation-two-thick",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-menu-1-alternate--button-parallel-horizontal-lines-menu-navigation-two-thick.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-menu-1-alternate--button-parallel-horizontal-lines-menu-navigation-two-thick.svg"
   },
   {
     "iconName": "lux-interface-setting-menu-2--button-parallel-horizontal-lines-menu-navigation-staggered-three-hamburger",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-menu-2--button-parallel-horizontal-lines-menu-navigation-staggered-three-hamburger.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-menu-2--button-parallel-horizontal-lines-menu-navigation-staggered-three-hamburger.svg"
   },
   {
     "iconName": "lux-interface-setting-menu-2-alternate--button-parallel-horizontal-lines-menu-navigation-staggered-thick",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-menu-2-alternate--button-parallel-horizontal-lines-menu-navigation-staggered-thick.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-menu-2-alternate--button-parallel-horizontal-lines-menu-navigation-staggered-thick.svg"
   },
   {
     "iconName": "lux-interface-setting-menu-horizontal--navigation-dots-three-circle-button-horizontal-menu",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-menu-horizontal--navigation-dots-three-circle-button-horizontal-menu.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-menu-horizontal--navigation-dots-three-circle-button-horizontal-menu.svg"
   },
   {
     "iconName": "lux-interface-setting-menu-horizontal-circle--navigation-dots-three-circle-button-horizontal-menu",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-menu-horizontal-circle--navigation-dots-three-circle-button-horizontal-menu.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-menu-horizontal-circle--navigation-dots-three-circle-button-horizontal-menu.svg"
   },
   {
     "iconName": "lux-interface-setting-menu-horizontal-square--navigation-dots-three-square-button-horizontal-menu",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-menu-horizontal-square--navigation-dots-three-square-button-horizontal-menu.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-menu-horizontal-square--navigation-dots-three-square-button-horizontal-menu.svg"
   },
   {
     "iconName": "lux-interface-setting-menu-parallel-hamburger-circle--navigation-parallel-hamburger-buttonmenu-circle",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-menu-parallel-hamburger-circle--navigation-parallel-hamburger-buttonmenu-circle.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-menu-parallel-hamburger-circle--navigation-parallel-hamburger-buttonmenu-circle.svg"
   },
   {
     "iconName": "lux-interface-setting-menu-parallel-hamburger-square--navigation-parallel-hamburger-buttonmenu-square",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-menu-parallel-hamburger-square--navigation-parallel-hamburger-buttonmenu-square.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-menu-parallel-hamburger-square--navigation-parallel-hamburger-buttonmenu-square.svg"
   },
   {
     "iconName": "lux-interface-setting-menu-vertical--navigation-vertical-three-circle-button-menu-dots",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-menu-vertical--navigation-vertical-three-circle-button-menu-dots.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-menu-vertical--navigation-vertical-three-circle-button-menu-dots.svg"
   },
   {
     "iconName": "lux-interface-setting-pie-chart-cog-setting-graph-cog",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-pie-chart-cog-setting-graph-cog.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-pie-chart-cog-setting-graph-cog.svg"
   },
   {
     "iconName": "lux-interface-setting-screwdriver--screwdriver-screw-tool-settings-hand",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-screwdriver--screwdriver-screw-tool-settings-hand.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-screwdriver--screwdriver-screw-tool-settings-hand.svg"
   },
   {
     "iconName": "lux-interface-setting-slide-horizontal--adjustment-adjust-controls-fader-horizontal-settings-slider",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-slide-horizontal--adjustment-adjust-controls-fader-horizontal-settings-slider.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-slide-horizontal--adjustment-adjust-controls-fader-horizontal-settings-slider.svg"
   },
   {
     "iconName": "lux-interface-setting-slider-horizontal--adjustment-adjust-controls-fader-horizontal-settings-slider",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-slider-horizontal--adjustment-adjust-controls-fader-horizontal-settings-slider.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-slider-horizontal--adjustment-adjust-controls-fader-horizontal-settings-slider.svg"
   },
   {
     "iconName": "lux-interface-setting-slider-horizontal-square--adjust-controls-fader-horizontal-settings-slider-square",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-slider-horizontal-square--adjust-controls-fader-horizontal-settings-slider-square.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-slider-horizontal-square--adjust-controls-fader-horizontal-settings-slider-square.svg"
   },
   {
     "iconName": "lux-interface-setting-slider-vertical-square--adjustment-adjust-controls-fader-vertical-settings-slider-square",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-slider-vertical-square--adjustment-adjust-controls-fader-vertical-settings-slider-square.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-slider-vertical-square--adjustment-adjust-controls-fader-vertical-settings-slider-square.svg"
   },
   {
     "iconName": "lux-interface-setting-slider-vertical-2--adjustment-adjust-controls-fader-vertical-settings-slider",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-slider-vertical-2--adjustment-adjust-controls-fader-vertical-settings-slider-multiple.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-slider-vertical-2--adjustment-adjust-controls-fader-vertical-settings-slider-multiple.svg"
   },
   {
     "iconName": "lux-interface-setting-slider-vertical-1--adjustment-adjust-controls-fader-vertical-settings-slider_1",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-slider-vertical-1--adjustment-adjust-controls-fader-vertical-settings-slider-single.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-slider-vertical-1--adjustment-adjust-controls-fader-vertical-settings-slider-single.svg"
   },
   {
     "iconName": "lux-interface-setting-tool-box--box-briefcase-tool-settings",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-tool-box--box-briefcase-tool-settings.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-tool-box--box-briefcase-tool-settings.svg"
   },
   {
     "iconName": "lux-interface-setting-wrench--crescent-tool-construction-tools-wrench-setting-edit-adjust",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-wrench--crescent-tool-construction-tools-wrench-setting-edit-adjust.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-wrench--crescent-tool-construction-tools-wrench-setting-edit-adjust.svg"
   },
   {
     "iconName": "lux-interface-setting-zoom-area--zoom-magnifier-square-area",
-    "iconPath": "/assets/icons/Interface-Essentials/Setting/interface-setting-zoom-area--zoom-magnifier-square-area.svg"
+    "iconPath": "/assets/icons/Interface-Essentials/Settings/interface-setting-zoom-area--zoom-magnifier-square-area.svg"
   },
   {
     "iconName": "lux-Gauge--gfi-benchmark-meter-indicator-barometer",
