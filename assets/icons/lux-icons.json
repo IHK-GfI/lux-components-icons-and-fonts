@@ -3570,5 +3570,41 @@
   {
     "iconName": "lux-wheelchair--person-access-wheelchair-accomodation-human-disability-disabled-accessibility-wayfinding",
     "iconPath": "/assets/icons/Accessibility/lux-wheelchair--person-access-wheelchair-accomodation-human-disability-disabled-accessibility-wayfinding.svg"
+  },
+  {
+    "iconName": "lux-road-sign-parking--road-sign-allowed-parking-car",
+    "iconPath": "/assets/icons/Office/lux-road-sign-parking--road-sign-allowed-parking-car.svg"
+  },
+  {
+    "iconName": "lux-road-sign-no-parking-allowed--road-sign-not-allowed-parking-car",
+    "iconPath": "/assets/icons/Office/lux-road-sign-no-parking-allowed--road-sign-not-allowed-parking-car.svg"
+  },
+  {
+    "iconName": "lux-real-estate-search-house-1--estate-house-location-search",
+    "iconPath": "/assets/icons/Office/lux-real-estate-search-house-1--estate-house-location-search.svg"
+  },
+  {
+    "iconName": "lux-office-chair-table-1--office-furniture-desk-workspace-stool-seat",
+    "iconPath": "/assets/icons/Office/lux-office-chair-table-1--office-furniture-desk-workspace-stool-seat.svg"
+  },
+  {
+    "iconName": "lux-office-chair--arm-chair-office-furniture-desk-workspace-stool-seat",
+    "iconPath": "/assets/icons/Office/lux-office-chair--arm-chair-office-furniture-desk-workspace-stool-seat.svg"
+  },
+  {
+    "iconName": "lux-maps-search--map-search-travel-navigation",
+    "iconPath": "/assets/icons/Office/lux-maps-search--map-search-travel-navigation.svg"
+  },
+  {
+    "iconName": "lux-cloud-search--cloud-search",
+    "iconPath": "/assets/icons/Office/lux-cloud-search--cloud-search.svg"
+  },
+  {
+    "iconName": "lux-chair-1--arm-chair-office-furniture-desk-workspace-stool-seat",
+    "iconPath": "/assets/icons/Office/lux-chair-1--arm-chair-office-furniture-desk-workspace-stool-seat.svg"
+  },
+  {
+    "iconName": "lux-chair--arm-chair-office-furniture-desk-workspace-stool-seat",
+    "iconPath": "/assets/icons/Office/lux-chair--arm-chair-office-furniture-desk-workspace-stool-seat.svg"
   }
 ]
