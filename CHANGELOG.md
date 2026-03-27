@@ -1,5 +1,12 @@
 # LUX-Components-Icons-And-Fonts
 
+## Version 1.11.0
+
+### NEW
+
+- **icons**: Anpassung der Pfade zu den Icons. [Issue 9](https://github.com/IHK-GfI/lux-components-icons-and-fonts/issues/9)
+- **icons**: Neue Icons hinzufügen. [Issue 18](https://github.com/IHK-GfI/lux-components-icons-and-fonts/issues/18)
+
 ## Version 1.10.0
 
 ### Bug Fixes

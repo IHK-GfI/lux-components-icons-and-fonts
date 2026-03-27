@@ -1,6 +1,10 @@
 {
   "name": "@ihk-gfi/lux-components-icons-and-fonts",
-  "version": "1.10.0",
+  "version": "1.11.0",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "tsc",
     "husky-init": "husky install",
